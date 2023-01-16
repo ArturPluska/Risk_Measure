@@ -1,0 +1,2 @@
+R_DEFAULT_PACKAGES = utils, grDevices, graphics, stats, methods, data.table
+TMPDIR = /Dropbox/SGH/
